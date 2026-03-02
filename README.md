@@ -1,0 +1,2 @@
+# ScrimbaCourse
+Vibe Coding
